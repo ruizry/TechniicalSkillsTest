@@ -1,0 +1,7 @@
+C:\Users\Rybear\source\repos\TechnicalSkills\TechnicalSkills\bin\Debug\TechnicalSkills.exe.config
+C:\Users\Rybear\source\repos\TechnicalSkills\TechnicalSkills\bin\Debug\TechnicalSkills.exe
+C:\Users\Rybear\source\repos\TechnicalSkills\TechnicalSkills\bin\Debug\TechnicalSkills.pdb
+C:\Users\Rybear\source\repos\TechnicalSkills\TechnicalSkills\obj\Debug\TechnicalSkills.csprojAssemblyReference.cache
+C:\Users\Rybear\source\repos\TechnicalSkills\TechnicalSkills\obj\Debug\TechnicalSkills.csproj.CoreCompileInputs.cache
+C:\Users\Rybear\source\repos\TechnicalSkills\TechnicalSkills\obj\Debug\TechnicalSkills.exe
+C:\Users\Rybear\source\repos\TechnicalSkills\TechnicalSkills\obj\Debug\TechnicalSkills.pdb
